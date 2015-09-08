@@ -330,12 +330,6 @@
     ```
     ```
 
- 1. 對JSON的了解？
-
-    A:
-    ```
-    ```
-
  1. `[].forEach.call($$("*"),function(a){
   a.style.outline="1px solid #"+(~~(Math.random()*(1<<24))).toString(16)
 })` 能解釋一下這段代碼的意思嗎？
@@ -428,31 +422,7 @@
     ```
     ```
 
- 1. jQuery.fn 的 init 方法返回的 this 指的是什麼對像？為什麼要返回 this？
-
-    A:
-    ```
-    ```
-
  1. jquery 中如何將數組轉化為json字符串，然後再轉化回來？
-
-    A:
-    ```
-    ```
-
- 1. jQuery 的屬性拷貝(extend)的實現原理是什麼，如何實現深拷貝？
-
-    A:
-    ```
-    ```
-
- 1. jquery.extend 與 jquery.fn.extend的區別？
-
-    A:
-    ```
-    ```
-
- 1. jQuery 的隊列是如何實現的？隊列可以用在哪些地方？
 
     A:
     ```
@@ -464,37 +434,7 @@
     ```
     ```
 
- 1. JQuery 一個對像可以同時綁定多個事件，這是如何實現的？
-
-    A:
-    ```
-    ```
-
- 1. jQuery 是通過哪個方法和 Sizzle 選擇器結合的？（jQuery.fn.find()進入Sizzle）
-
-    A:
-    ```
-    ```
-
- 1. 針對 jQuery 性能的優化方法？
-
-    A:
-    ```
-    ```
-
- 1. Jquery 與 jQuery UI 有什麼區別？
-
-    A:
-    ```
-    ```
-
- 1. jQuery 和 Zepto的區別？各自的使用場景？
-
-    A:
-    ```
-    ```
-
- 1. jQueryUI 如何自定義組件？
+  1. 針對 jQuery 性能的優化方法？
 
     A:
     ```
@@ -507,12 +447,6 @@
     ```
 
  1. 如何判斷當前腳本運行在瀏覽器還是 node 環境中？
-
-    A:
-    ```
-    ```
-
- 1. jQuery 的 slideUp 動畫 ，如果目標元素是被外部事件驅動, 當鼠標快速地連續觸發外部元素事件, 動畫會滯後的反復執行，該如何處理呢？
 
     A:
     ```
@@ -531,41 +465,6 @@
     ```
 
  1. 知道各種 JS 框架(Angular, Backbone, Ember, React, Meteor, Knockout...)麼? 能講出他們各自的優點和缺點麼？
-
-    A:
-    ```
-    ```
- 1. Underscore 對哪些 JS 原生對像進行了擴展以及提供了哪些好用的函數方法？
-
-    A:
-    ```
-    ```
-
- 1. Node.js的適用場景？
-
-    A:
-    ```
-    ```
-
- 1. (如果會用node)知道 route, middleware, cluster, nodemon, pm2, server-side rendering麼？
-
-    A:
-    ```
-    ```
-
- 1. 解釋一下前端的 MVC 實現方式？
-
-    A:
-    ```
-    ```
-
- 1. 什麼是“front end router”? 什麼時候適合使用“front end router”?  “front end router”有哪些優點和缺點？
-
-    A:
-    ```
-    ```
-
- 1. 知道什麼是 webkit 嗎? 知道怎麼用瀏覽器的各種工具來和 debug 麼？
 
     A:
     ```
