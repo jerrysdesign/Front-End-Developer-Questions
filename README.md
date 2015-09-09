@@ -485,7 +485,7 @@
     ```
     ```
 
- 1. 請實作三欄區塊，且可隨內容增加維持彼此等高
+ 1. 用純 CSS 實作三欄區塊，且可隨內容增减維持彼此等高
 
     ![等高](https://github.com/jerrysdesign/Front-End-Developer-Questions/blob/master/images/_3-col-auto-height.png)
 
@@ -494,7 +494,7 @@
     可使用 codepen or jsfiddle or jsbin，並附上連結
     ```
 
- 1. 請實作一個全螢幕下的九宮格？條件不可使用 height
+ 1. 用純 CSS 實作一個全螢幕下的九宮格？條件不可使用 height
 
     ![九宮格](https://github.com/jerrysdesign/Front-End-Developer-Questions/blob/master/images/_9-block.png)
 
